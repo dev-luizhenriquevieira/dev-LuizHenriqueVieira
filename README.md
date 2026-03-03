@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Luiz Henrique Vieira
 
-<!--
-**dev-luizhenriquevieira/dev-LuizHenriqueVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com foco em soluções eficientes, análise de dados e desenvolvimento de software. 
+Tenho experiência com múltiplas linguagens e gosto de trabalhar tanto com backend quanto com lógica e processamento de dados.
 
-Here are some ideas to get you started:
+## 🎓 Formação & Atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e boas práticas de engenharia.
+
+🏅 **DIO Campus Expert**  
+Participante do programa Campus Expert da DIO (Digital Innovation One), desenvolvendo habilidades técnicas e comportamentais, além de atuar ativamente na comunidade tech.
+
+
+## 🚀 Tecnologias & Stacks
+- 🐍 Python
+- 📊 R
+- ⚙️ C
+- 🌐 JavaScript
+- 🟢 Node.js
+
+## 🎯 Objetivo
+Aprimorar constantemente minhas habilidades técnicas, contribuir para projetos desafiadores e evoluir como desenvolvedor full stack com forte base em lógica e análise de dados. 
